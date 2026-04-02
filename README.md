@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on dicoding<br>- 🌱 I’m currently learning programming<br>- 👯 I’m looking to collaborate on dbs foundation<br>- 🤔 I’m looking for help with ai<br>- 💬 Ask me about live<br>- 📫 How to reach me: instagram @adriann_bw<br>- 😄 Pronouns: sunda<br>- ⚡ Fun fact: i can eat w/out watching phone
+-🔭 I’m currently working on dicoding<br>-🌱 I’m currently learning programming<br>-👯 I’m looking to collaborate on dbs foundation<br>-🤔 I’m looking for help with ai<br>-💬 Ask me about live<br>-📫 How to reach me: instagram @adriann_bw<br>-😄 Pronouns: sunda<br>-⚡ Fun fact: i can eat w/out watching phone
 
 
 # 💻 Tech Stack:
